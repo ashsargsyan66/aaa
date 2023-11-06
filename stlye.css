@@ -1,0 +1,8 @@
+.nav__bar{
+    display: flex;
+    padding: 50px;
+     position: fixed; 
+    color: rgb(11, 11, 85);
+    background-color: whitesmoke;
+    width: 100%;
+}
